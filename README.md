@@ -1,2 +1,2 @@
-# Vis-o-Computacional
+# Visao-Computacional
 Trabalho final
